@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KotlinPoCIntentsAndActivities</string>
+    <string name="title_activity_word_detail">WordDetailActivity</string>
 </resources>
